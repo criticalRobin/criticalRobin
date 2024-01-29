@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a webb app to make forms to request changes in software projects.](https://github.com/criticalRobin/app_web_formularios_de_cambio)
 
-- 🌱 I’m currently learning **Vue3 Compostion API and Flutter**
+- 🌱 I’m currently learning **Vue3 Options & Compostion API and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/criticalRobin](https://github.com/criticalRobin)
 
