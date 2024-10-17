@@ -53,7 +53,7 @@ Connect with me🤝:
 </p>
 
 
-<build>
+<p><build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -102,3 +102,4 @@ Connect with me🤝:
             <scope>test</scope>
         </dependency>
     </dependencies>
+</p>
