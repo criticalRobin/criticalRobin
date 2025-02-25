@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Matías Tite</h1>
-<h3 align="center">20 years old ecuadorian software developer.</h3>
+<h3 align="center">21 years old ecuadorian software developer.</h3>
 
-- 🔭 I’m currently working on [a webb app to make forms to request changes in software projects.](https://github.com/criticalRobin/app_web_formularios_de_cambio)
+- 🔭 I’m currently working on [Beat, a mobile app to help you discover new music and instantly add it to your Spotify playlist.](https://github.com/criticalRobin/beat)
 
-- 🌱 I’m currently learning **Vue3 Options & Compostion API and Flutter**
+- 🌱 I’m currently learning **TDD and Clean Architechture Development Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/criticalRobin](https://github.com/criticalRobin)
 
-- 💬 Ask me about **django, django rest framework, backend development**
+- 💬 Ask me about **Angular, Flutter, Nest.JS**
 
-- 👯 I’m looking to collaborate on **challenging projects related with technologies like django, vue and flutter**
+- 👯 I’m looking to collaborate on **challenging projects related with technologies like Angular, Nest.JS and Flutter**
 
 ---
 
